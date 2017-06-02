@@ -1,6 +1,6 @@
 (defproject keyboard-sketch "0.1.0-SNAPSHOT"
   :description "An Etch-A-Sketch like sketch tool"
-  :url "http://example.com/FIXME"
+  :url "https://pirosuke.github.io/games/keyboard-sketch/"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
