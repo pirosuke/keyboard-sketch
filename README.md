@@ -13,9 +13,13 @@ For interactive development run `lein cljsbuild auto` command. This command will
 You can draw by pressing a key.
 
 d : move left
+
 f : move right
+
 j : move up
+
 k : move down
+
 c : clear sketch
 
 ## License
